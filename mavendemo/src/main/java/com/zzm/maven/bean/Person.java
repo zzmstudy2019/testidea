@@ -20,6 +20,10 @@ public class Person {
 
     private String xsxsx;
 
+    private String we2;
+
+
+
     private Integer we;
 
     private String xiaoli;
