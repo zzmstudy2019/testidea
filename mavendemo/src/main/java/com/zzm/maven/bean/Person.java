@@ -30,6 +30,12 @@ public class Person {
 
     private String config;
 
+    private  String next;
+
+
+    private String xuemei;
+
+
 
 
 
