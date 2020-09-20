@@ -33,13 +33,13 @@ public class Person {
     private  String next;
 
 
-
-
     private String xuemei;
 
+
+    private String xuanxuan;
+
+
     public static void main(String[] args) {
-        System.out.println("1212ssdsd");
+        System.out.println("1212");
     }
-
-
 }
