@@ -1,5 +1,7 @@
 package com.zzm.maven.bean;
 
+import java.math.BigDecimal;
+
 /**
  * @author zzm
  * @date 2020-09-20 19:50
@@ -22,6 +24,10 @@ public class Person {
 
 
     private Integer we;
+
+
+
+    private String xiaoli;
 
 
 
