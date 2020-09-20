@@ -37,7 +37,9 @@ public class Person {
 
     private String xuemei;
 
-
+    public static void main(String[] args) {
+        System.out.println("1212ssdsd");
+    }
 
 
 }
