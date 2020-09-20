@@ -21,6 +21,8 @@ public class Person {
     private String xsxsx;
 
 
+    private Integer we;
+
 
 
 
