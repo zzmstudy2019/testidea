@@ -33,6 +33,7 @@ public class Person {
     private  String next;
 
 
+    private String xuemei;
 
 
 
