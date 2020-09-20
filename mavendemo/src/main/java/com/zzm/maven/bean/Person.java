@@ -18,6 +18,7 @@ public class Person {
     private String englishName;
 
 
+    private String xsxsx;
 
 
 
