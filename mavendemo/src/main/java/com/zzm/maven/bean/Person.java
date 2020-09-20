@@ -15,6 +15,12 @@ public class Person {
     private String b;
 
 
+    private String englishName;
+
+
+
+
+
 
 
 
