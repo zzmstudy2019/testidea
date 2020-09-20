@@ -30,6 +30,9 @@ public class Person {
 
     private String config;
 
+    private  String next;
+
+
 
 
 }
