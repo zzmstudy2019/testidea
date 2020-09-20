@@ -7,4 +7,5 @@ package com.zzm.maven.bean;
 public class Man extends Person {
 
 
+    
 }
