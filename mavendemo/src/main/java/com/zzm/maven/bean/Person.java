@@ -1,5 +1,7 @@
 package com.zzm.maven.bean;
 
+import sun.applet.Main;
+
 import java.math.BigDecimal;
 
 /**
@@ -39,5 +41,7 @@ public class Person {
     private String xuanxuan;
 
 
-
+    public static void main(String[] args) {
+        System.out.println("1212");
+    }
 }
