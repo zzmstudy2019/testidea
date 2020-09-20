@@ -16,19 +16,15 @@ public class Person {
 
     private String b;
 
-
     private String englishName;
-
 
     private String xsxsx;
 
-
     private Integer we;
-
-
 
     private String xiaoli;
 
+    private String config;
 
 
 
